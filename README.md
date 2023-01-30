@@ -24,7 +24,7 @@
   
 <h3>Let's get in touch :handshake:</h3>
 <ul align="left">
-  <li> :eyes: Take a look on my <strong>portfolio</strong> https://joyful-salamander-7784f9.netlify.app</li>
+  <li> :eyes: Take a look on my <strong>portfolio</strong> https://arnaudtl-react-developer.vercel.app</li>
   <li> :construction: I’m currently learning Typescript and Jest </li>
   <li>📫 Reach me at : <a href="mailto:arnaudlt293@gmail.com">arnaudlt293@gmail.com</a></li>
   <li>📱 Connect with me : <strong>https://www.linkedin.com/in/arnaud-le-tallec-106b571a7/</strong> </li>
