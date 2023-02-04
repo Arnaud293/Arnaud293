@@ -16,7 +16,7 @@
  <img width="55" height="55" alt="logo-node" src="https://user-images.githubusercontent.com/101059956/215351138-5d7e297e-8e28-4127-b3b7-000ab6dec667.png">
  <img width="55" height="55" alt="logo-Mongo" src="https://user-images.githubusercontent.com/101059956/215351383-c127a4a6-21d3-4ed7-aa41-23be471ff94a.png">
  <img width="75" height="55" alt="logo-TS" src="https://user-images.githubusercontent.com/101059956/215351385-79c98ded-d1a8-49f0-a91d-71b93b7b44e4.png">
- <img width="75" height="55" alt="logo-express" src="https://user-images.githubusercontent.com/101059956/215351386-7457fab8-27c2-41c5-a7c7-69535500fed2.png">
+ 
 <div>
   
 <br/>
